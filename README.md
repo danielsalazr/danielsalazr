@@ -4,13 +4,12 @@ My name is Daniel, I'm from colombia and I'm an Full Stack Developer.
 ### 🎯 Strong Skills:
 <p align="center">
 
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Utbuntu">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="SASS">&nbsp;&nbsp;  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">&nbsp;&nbsp;  
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Hana-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="Hana">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">&nbsp;&nbsp;
@@ -22,7 +21,6 @@ My name is Daniel, I'm from colombia and I'm an Full Stack Developer.
 <img src="https://img.shields.io/badge/SAP_B1-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAPB1">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Crystal_Reports-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="Crystal_Reports">&nbsp;&nbsp;
   
-
 </p>
 
 <!--
