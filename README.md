@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Daniel, I'm from colombia and I'm an Full Stack Developer.
 
-## 🎯 Strong Skills:
+### 🎯 Strong Skills:
 <p align="center">
 
 
