@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Daniel, I'm from colombia and I'm an Full Stack Developer.
 
-🎯 Technologies I use:
+## 🎯 Technologies that I use:
 <p align="center">
 
 
