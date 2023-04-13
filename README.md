@@ -19,7 +19,6 @@ My name is Daniel, I'm from colombia and I'm an Full Stack Developer.
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDb">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SAP_B1-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAPB1">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Crystal_Reports-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="Crystal_Reports">&nbsp;&nbsp;
