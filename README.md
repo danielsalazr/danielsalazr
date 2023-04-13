@@ -12,12 +12,16 @@ My name is Daniel, I'm from colombia and I'm an Full Stack Developer.
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="SASS">&nbsp;&nbsp;  
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hana-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="Hana">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDb">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SAP_B1-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAPB1">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Crystal_Reports-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="Crystal_Reports">&nbsp;&nbsp;
+  
 
 </p>
 
