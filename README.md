@@ -1,29 +1,78 @@
-## Hi there 👋
-My name is Daniel, I'm from colombia and I'm an Full Stack Developer.
+<div>
+<h1 align="center">
+  Hi, I'm Daniel Salazar!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h1>
+<p align="center" >
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4996&pause=1000&center=true&vCenter=true&lines=FullStack+Python - JS+Developer;Django+%7C+React+%7C+Express;Always+keep+learning+new+things" align='center' alt="Typing SVG" />
+</p>
 
-## 🎯 Strong Skills:
+<div>
+
+  <p>My name is Daniel, I'm from colombia and I'm Full Stack Developer with Python and Js with 2 years experience:</p>
+  
+```
+Danielsalazr@github
+-------------------------
+💻 I am an Fullstack developer 
+👨🏽‍💻 Currently a TI Engineer Developer in Johanna Ortiz
+🔭 Working on Fullstack development with Django, React and MySQL databases.
+📚 I am an Electronics Engineer
+📝 I have a strong interest in Backend Architecture
+🌟 Main languages:  Python, Javascript
+🚩 Interested in web development.
+-------------------------
+```
+
+</div>
+
+<!-- ## Hi there 👋 -->
+
+
+<!-- ## 🎯 Strong Skills: -->
+## 💼Tech Stack:
 <p align="center">
 
-  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">&nbsp;&nbsp;
+#### Frontend:
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;&nbsp;
+<img src= "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;&nbsp;
+
+
+#### Backend:
+- <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Hana-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="Hana">&nbsp;&nbsp;
+
+#### Databases: 
+- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hana DB-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="Hana">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDb">&nbsp;&nbsp;
+
+
+
+#### Admin and testing:
+
+- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">&nbsp;&nbsp;
+
+#### SAP:
+- <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SAP_B1-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAPB1">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Crystal_Reports-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="Crystal_Reports">&nbsp;&nbsp;
   
 </p>
+
+
+## 💻 Projects:
+
+- [Employee Search](http://www.sicla.lat:8002/) - Employee Managment Platform
+- [Articles catalog](http://www.sicla.lat:8004/) - Articles catalog
+- [Dashboard](http://www.sicla.lat:8006/) - Drawing Dahsboard
+<!-- - [NodeJs](https://nodejs.org/en/) - Server Environment -->
 
 <!--
 * Currently working for [@splitio](https://github.com/splitio) as a Staff SRE
@@ -96,3 +145,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
