@@ -31,41 +31,27 @@ Danielsalazr@github
 
 <!-- ## 🎯 Strong Skills: -->
 ## 💼Tech Stack:
-<p align="center">
+<!-- <p align="center"> -->
 
-#### Frontend:
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;&nbsp;
-<img src= "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">;
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;&nbsp;
-
-
-#### Backend:
-- <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express">&nbsp;&nbsp;
-
-#### Databases: 
-- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Hana DB-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="Hana">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDb">&nbsp;&nbsp;
-
-
-
-#### Admin and testing:
-
-- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;&nbsp;
-
-#### SAP:
-- <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SAP_B1-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAPB1">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Crystal_Reports-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="Crystal_Reports">&nbsp;&nbsp;
-  
-</p>
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat)&nbsp;&nbsp;
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&style=flat)&nbsp;&nbsp;
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&style=flat)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat)&nbsp;&nbsp;\
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&style=flat)&nbsp;&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&style=flat)&nbsp;&nbsp;
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=flat)&nbsp;&nbsp;\
+![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat)&nbsp;&nbsp;
+![Hana](https://img.shields.io/badge/HanaDB-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&style=flat)&nbsp;&nbsp;
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=flat)&nbsp;&nbsp;
+![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat)&nbsp;&nbsp;\
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=flat)&nbsp;&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&style=flat)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat)&nbsp;&nbsp;\
+![SAPB1](https://img.shields.io/badge/SAP_B1-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&style=flat)&nbsp;&nbsp;
+![Crystal_Reports](https://img.shields.io/badge/Crystal_Reports-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&style=flat)&nbsp;&nbsp;
+<!-- </p> -->
 
 
 ## 💻 Projects:
