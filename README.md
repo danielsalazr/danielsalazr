@@ -36,7 +36,8 @@ Danielsalazr@github
 #### Frontend:
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;&nbsp;
-<img src= "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">&nbsp;&nbsp;
+<img src= "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">;
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;&nbsp;
 
 
@@ -73,6 +74,20 @@ Danielsalazr@github
 - [Articles catalog](http://www.sicla.lat:8004/) - Articles catalog
 - [Dashboard](http://www.sicla.lat:8006/) - Drawing Dahsboard
 <!-- - [NodeJs](https://nodejs.org/en/) - Server Environment -->
+
+##  Find me around the web:
+
+- Learn more about me at <a href="https://www.linkedin.com/in/danielsalazr/">Linkedin</a> 👨‍💼
+- Protfolio: <a href="http://sicla.lat/">Portfolio</a>
+
+<!-- ## 📊 Some of my stats are: -->
+
+## 📊 Stats:
+
+<a href="https://github.com/AVS1508">
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielsalazr&theme=buefy&show_icons=true" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsalazr&theme=buefy&layout=compact" />
+</a>
 
 <!--
 * Currently working for [@splitio](https://github.com/splitio) as a Staff SRE
