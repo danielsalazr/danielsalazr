@@ -75,7 +75,7 @@ Danielsalazr@github
 - [Dashboard](http://www.sicla.lat:8006/) - Drawing Dahsboard
 <!-- - [NodeJs](https://nodejs.org/en/) - Server Environment -->
 
-##  Find me around the web:
+## 🤝🏻 Contact me:
 
 - Learn more about me at <a href="https://www.linkedin.com/in/danielsalazr/">Linkedin</a> 👨‍💼
 - Protfolio: <a href="http://sicla.lat/">Portfolio</a>
