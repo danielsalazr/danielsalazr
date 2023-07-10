@@ -54,7 +54,7 @@ Danielsalazr@github
 <!-- </p> -->
 
 
-## 💻 Projects:
+## 💻 Recent Projects:
 
 - [Employee Search](http://www.sicla.lat:8002/) - Employee Managment Platform
 - [Articles catalog](http://www.sicla.lat:8004/) - Articles catalog
@@ -62,9 +62,14 @@ Danielsalazr@github
 <!-- - [NodeJs](https://nodejs.org/en/) - Server Environment -->
 
 ## 🤝🏻 Contact me:
+<a href="https://sicla.lat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="danielsalazr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danielsalazr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielsalazr" height="30" width="40" /></a>
 
+
+<!--
 - Learn more about me at <a href="https://www.linkedin.com/in/danielsalazr/">Linkedin</a> 👨‍💼
 - Protfolio: <a href="http://sicla.lat/">Portfolio</a>
+-->
 
 <!-- ## 📊 Some of my stats are: -->
 
@@ -72,6 +77,7 @@ Danielsalazr@github
 
 <a href="https://github.com/AVS1508">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielsalazr&theme=buefy&show_icons=true" /> -->
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/danielsalazr?cardType=github&theme=github&preferLogin=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsalazr&theme=buefy&layout=compact" />
 </a>
 
