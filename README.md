@@ -11,6 +11,9 @@
 
   <p>My name is Daniel, I'm from colombia and I'm Full Stack Developer with Python and Js with 2 years experience:</p>
   
+<!-- <img height="228" width="320" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align='left' alt="programming" /> -->
+
+
 ```
 Danielsalazr@github
 -------------------------
@@ -23,6 +26,8 @@ Danielsalazr@github
 🚩 Interested in web development.
 -------------------------
 ```
+
+
 
 </div>
 
@@ -62,8 +67,9 @@ Danielsalazr@github
 <!-- - [NodeJs](https://nodejs.org/en/) - Server Environment -->
 
 ## 🤝🏻 Contact me:
-<a href="https://sicla.lat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="danielsalazr" height="30" width="40" /></a>
+<a href="https://sicla.lat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="danielsalazr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/danielsalazr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielsalazr" height="30" width="40" /></a>
+
 
 
 <!--
