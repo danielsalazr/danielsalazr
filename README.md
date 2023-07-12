@@ -46,7 +46,9 @@ Danielsalazr@github
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat)&nbsp;&nbsp;\
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&style=flat)&nbsp;&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&style=flat)&nbsp;&nbsp;
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=flat)&nbsp;&nbsp;\
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=flat)&nbsp;&nbsp;
+![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=flat&logo=Celery&logoColor=white)&nbsp;&nbsp;
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=flat&logo=RabbitMQ&logoColor=white)&nbsp;&nbsp;\
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat)&nbsp;&nbsp;
 ![Hana](https://img.shields.io/badge/HanaDB-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&style=flat)&nbsp;&nbsp;
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=flat)&nbsp;&nbsp;
