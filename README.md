@@ -52,7 +52,8 @@ Danielsalazr@github
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat)&nbsp;&nbsp;
 ![Hana](https://img.shields.io/badge/HanaDB-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&style=flat)&nbsp;&nbsp;
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=flat)&nbsp;&nbsp;
-![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat)&nbsp;&nbsp;\
+![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat)&nbsp;&nbsp;
+![Redis](https://img.shields.io/badge/Redis_Cache-DC382D.svg?style=flat&logo=Redis&logoColor=white)&nbsp;&nbsp;\
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=flat)&nbsp;&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&style=flat)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat)&nbsp;&nbsp;\
